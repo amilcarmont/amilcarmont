@@ -47,5 +47,6 @@ En los ultimos años, me he dedicado al desarrollo de aplicaciones Android con J
   
 - Encuesta - Esta App es de uso interno de una Mutual la cual permite parametrizar encuestas y llevarlas a cabo a fin de tener un claro mapa de la situación que se desea evaluar.
 
-[[Email](email.png?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:amilcar2406@gmail.com)
+[![Email](https://img.shields.io/badge/contacto-amilcar?style=for-the-badge&color=101080)](mailto:amilcar2406@gmail.com)
+
 
