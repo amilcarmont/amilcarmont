@@ -46,3 +46,5 @@ En los ultimos años, me he dedicado al desarrollo de aplicaciones Android con J
 - Agenda Médica - App de uso interno para los médicos de una mutual con consultorios médicos donde cada especialista puede tener su agenda en su dispositivo, estando online con la secretaria general que es la encargada de manejar las agendas de los profesionales
   
 - Encuesta - Esta App es de uso interno de una Mutual la cual permite parametrizar encuestas y llevarlas a cabo a fin de tener un claro mapa de la situación que se desea evaluar.
+
+[![Email](https://www.shutterstock.com/es/image-vector/3d-realistic-sign-icon-vector-illustration-2155885213)](mailto:amilcar2406@gmail.com)
